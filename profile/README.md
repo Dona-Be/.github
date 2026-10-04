@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4FC3F7&height=120&section=header"/>
 
-<h1 align="center">DonaBe</h1>
+<h1 align="center">DonaBê</h1>
 <h3 align="center">Conectando doadores a instituições de caridade perto de você</h3>
 
 <p align="center">
@@ -28,6 +28,13 @@ O projeto reúne, em um repositório central, a aplicação WEB, o backend compa
 <p align="center">
 O <b>API-Playground</b> é usado apenas para testar APIs públicas e externas antes de integrá-las ao sistema.
 </p>
+
+## Stack
+
+- **Backend**: FastAPI + SQLModel + PostgreSQL
+- **Frontend**: React + Vite + TypeScript + Tailwind CSS
+- **Autenticação**: OAuth
+- **Infra**: Docker
 
 <p align="center">
 Caso precise de informações do sistema ou do projeto como um todo, recomendamos fortemente que consulte a página do repositório principal.
